@@ -6,7 +6,7 @@ PharmGenomics Health Analyzer is an advanced pharmacogenomics analysis platform 
 ---
 
 ## 🌐 Deployment
-- **Live Application**: [Add deployment URL here]
+- **Live Application**: https://health-frontent-4ede.vercel.app
 - **Backend Repository**: https://github.com/abudardarajiya-eng/Health-Backend
 - **Video Demo**: [Add LinkedIn video URL here]
 
