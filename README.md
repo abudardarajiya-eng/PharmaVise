@@ -287,11 +287,10 @@ chr22	42128875	rs3892097	A	G	.	PASS	GENE=CYP2D6;STAR=*4
 
 ## 👥 Team Members
 
-- **[Member Name 1]** - Full Stack Development
-- **[Member Name 2]** - Backend & AI Integration
-- **[Member Name 3]** - Frontend Development
-- **[Member Name 4]** - Data Science & Gene Database
-- **[Member Name 5]** - Project Management
+- **[Aryan Yogi (Team Leader)]** - Project Manager
+- **[Abudarda Ansari]** - Backend & AI Integration
+- **[Ashish Maurya]** - Frontend Development & Research
+- **[Utkarsh Raj]** - Data Science & Gene Database
 
 ---
 
